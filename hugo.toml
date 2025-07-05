@@ -1,0 +1,8 @@
+baseURL = 'http://example.org/'
+languageCode = 'es-ar'
+title = 'Mi Página Hugo'
+theme = 'ananke'
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
